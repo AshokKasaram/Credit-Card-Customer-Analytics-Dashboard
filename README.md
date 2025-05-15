@@ -41,7 +41,7 @@ Banks often struggle to proactively identify customers likely to churn or exhibi
 
 Created a multi-page interactive dashboard:
 
-#### Page 1: Executive Overview
+#### Page 1: Customer Profile Snapshot
 - KPIs for total customers, churn rate, average credit limit, and utilization.
 - Churn breakdown by customer status.
 - Customer distribution by age group.
